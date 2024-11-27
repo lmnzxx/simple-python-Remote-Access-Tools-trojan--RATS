@@ -1,5 +1,8 @@
 # simple-python-Remote-Access-Tools-trojan--RATS
 
+### Disclaimer
+**This tool is developed solely for educational purposes as part of the Computer Hacking course. The author is not responsible for any misuse or harm caused by this tool.**
+
 This project is a Remote Access Tool (RAT) developed as part of the Computer Hacking course. It is a simple proof-of-concept tool that includes basic features such as:  
 - **Screenshot capturing**  
 - **Keystroke logging**  
@@ -24,3 +27,6 @@ This project is a Remote Access Tool (RAT) developed as part of the Computer Hac
   - ipaddress  
   - pyinstaller (if compiling to .exe)
 
+## Contributions  
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an issue or submit a pull request.  
